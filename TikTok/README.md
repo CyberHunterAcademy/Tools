@@ -8,7 +8,6 @@ Tool for recover information about a profile on tiktok platform
 git clone https://github.com/CyberHunterAcademy/Tools/new/main/TikTok 
 
 pip3 install -r requirements
-
 ```
 
 ## Usage
