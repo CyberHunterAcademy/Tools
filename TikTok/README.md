@@ -26,3 +26,6 @@ Search for a list of profiles (one per line):
 ```
 python3 get_info_tiktok.py -r request_file
 ```
+
+
+![](Docs/FunctionsGetInfoTikTok.gif)
