@@ -5,8 +5,7 @@ Tool for recover information about a profile on tiktok platform
 ## Instalation
 
 ``` 
-git clone https://github.com/CyberHunterAcademy/Tools/new/main/TikTok
-svn checkout https://github.com/CyberHunterAcademy/Tools/trunk/test
+svn checkout https://github.com/CyberHunterAcademy/Tools/trunk/TikTok
 
 pip3 install -r requirements
 ```
