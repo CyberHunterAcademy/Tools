@@ -1,5 +1,2 @@
 requests
-json
-os
-optparse
 bs4
